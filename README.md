@@ -1,3 +1,5 @@
+This repository is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
 # CoBR-Net
 Official PyTorch implementation of **CoBR-Net** for high-resolution remote sensing road extraction, accepted/submitted to GIScience & Remote Sensing.
 
